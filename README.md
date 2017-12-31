@@ -17,7 +17,7 @@ Crea un proyecto en Android que:
     Utilice la imagen adjunta como fondo generando su archivo nine-patch para que sea redimensionable.
     Brinde soporte a múltiples pantallas.
  
-Alejandro Hernandez
-Curso: Desarrollo de Aplicaciones Moviles con Android
-Coursera
-Universidad Nacional Autonóma de México
+Alejandro Hernandez,
+Curso: Desarrollo de Aplicaciones Moviles con Android,
+Coursera,
+Universidad Nacional Autonóma de México.
