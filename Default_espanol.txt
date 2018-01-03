@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="titulo_app">Mi Hola Mundo</string>
+    <string name="texto">El texto de la aplicación</string>
+    <string name="selección">Selección</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="descImage">El Marcianito Android</string>
+</resources>

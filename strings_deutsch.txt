@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hallo Welt</string>
+    <string name="titulo_app">Meine Hallo Welt</string>
+    <string name="texto">Der Text der Anwendung</string>
+    <string name="selección">Auswahl</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+</resources>
